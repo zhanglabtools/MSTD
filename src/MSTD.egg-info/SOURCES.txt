@@ -1,0 +1,9 @@
+MANIFEST.in
+setup.py
+src/MSTD.egg-info/PKG-INFO
+src/MSTD.egg-info/SOURCES.txt
+src/MSTD.egg-info/dependency_links.txt
+src/MSTD.egg-info/top_level.txt
+src/MSTDlib/MSTD_v1.py
+src/MSTDlib/MSTD_v2.py
+src/MSTDlib/__init__.py

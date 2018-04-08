@@ -1,0 +1,1 @@
+Celltypes_blood_17_location£ºThe file contains the genome location information of promoters and promoter interacting regions for each chromosomes used by the detection of asymmetric PADs.
